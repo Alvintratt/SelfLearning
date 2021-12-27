@@ -51,7 +51,7 @@ def add_numbers(n1, n2):
     return sum
 
 result = add_numbers(5.4, 6.7)
-#Dubbel function test [Resultat:
+#Dubbel function test (2 functions på samma rad) [Resultat:
 # ERROR: STATEMENTS MUST BE SEPERATED BY NEWLINES OR SEMICOLONS. (ERROR FIXAD) Slut bedömning: blanksteg används för nya kommandon, och om jag har rätt så kan man skriva kommandon efter function kommandot, men inte en annan function med ett enkelt blanksteg efter.]
 myFunction 
 myFunction2
