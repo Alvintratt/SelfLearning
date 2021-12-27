@@ -56,3 +56,7 @@ result = add_numbers(5.4, 6.7)
 myFunction 
 myFunction2
 add_numbers
+
+#Detta är den första ändringen i denna kod innan den blev pushad till GitHub i SelfLearning.py med message commit1.
+#CTRL + S gör inget.
+#Skapar commit2
